@@ -77,12 +77,12 @@ main { /* global main properties */
 #management img,
 #marketing img { /* properties for all images within main */
     max-height: 200px;
-    float: left;
+    float: left; 
     margin-right: 25px;
 }
 
-#management img { /* management img float:right overrides general img properties */
-    float: right;
+#management img { 
+    float: right; /* management img float:right overrides optimisation & management img float:left property */
 }
 
 #optimization h2,
@@ -97,8 +97,8 @@ main { /* global main properties */
 aside{ /* global aside properties */
     margin-right: 20px;
     padding: 20px;
-    clear: both;
-    float: right;
+    clear: both; 
+    float: right; /* clear and float are responsible for aside being on the right side of the webpage */
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -136,6 +136,6 @@ footer { /* footer properties */
     text-align: center;
 }
 
-footer h2 { /* header 2 property */
+footer h3 { /* header 3 property */
     font-size: 20px;
 }
