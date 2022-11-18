@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-main {
+body {
     background-color: #d9dcd6;
 }
 
@@ -47,7 +47,7 @@ nav a {
     background-position: center;
 }
 
-section {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -100,7 +100,7 @@ section {
     font-size: 36px;
 }
 
-.benefits {
+aside{
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -111,53 +111,66 @@ section {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+#section-lead,
+#section-brand,
+#section-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+#section-lead img,
+#section-brand img,
+#section-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+#section-lead h3,
+#section-brand h3,
+#section-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* #section-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+} */
+/* 
+#section-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
+/* 
+#section-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+} */
 
-.benefit-cost img {
+/* #section-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+} */
+
+
+
+/* 
+
+#section-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+} */
+
+
+
+/* 
+#section-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
 
 
@@ -165,13 +178,13 @@ section {
 
 
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
