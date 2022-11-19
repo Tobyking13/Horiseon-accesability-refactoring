@@ -6,7 +6,7 @@ I have been briefed on updating the code for the Horiseon website to improve acc
 
 The CSS has been refactored and simplified. Class and ID's have been updated so they are logical and understandable. The CSS code now has comments explaining what each property is for. All of this is done so that anyone updating this page in the future will know what is doing what. 
 
-This has been an interesting experience. It's been good for me to understand how messy writing HTML code can be and the best practises to refactor and simplify it. On top of this, regularly updating Github with commits has been a great way of keeping on top of the work and seeing it progress, as well as giving me more experience using Github. 
+This has been an interesting experience. It's been good for me to understand how messy HTML & CSS code can be refactored and simplified. On top of this, regularly updating Github with commits has been a great way of keeping on top of the work and seeing it progress, as well as giving me more experience using Github. 
 
 The website has been uploaded to Github pages. Please find the link in the Instillation section of the README.md
 
