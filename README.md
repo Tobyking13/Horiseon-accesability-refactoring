@@ -2,11 +2,11 @@
 
 ## Description
 
-I have been briefied with updating the code for the Horiseon website to improve accessability and use up to date HTML semantics. The code now allows functionality for braile keyboards and/or programs that verbally describe what is happening on the webpage by using up to date HTML semantics. Instead of using HTML div elements, the webpage now makes use of section, aside, article, header, footer & main elements. As well as this, every image now has a description. This is useful for programs describing what is on the screen also, if the image doesn't load, the user can still get an understanding of what the image should be.
+I have been briefed on updating the code for the Horiseon website to improve accessibility and use up-to-date HTML semantics. The code now allows functionality for braille keyboards and/or programs that verbally describe what is happening on the webpage using up-to-date HTML semantics. Instead of using HTML div elements, the webpage now makes use of sections, aside, article, header, footer and main elements. As well as this, every image now has a description. This is useful for programs describing what is on the screen. Also, if the image doesn't load, the user can still get an idea of what the image should be. 
 
-The css has been refactored and simplified. Class and ID's have been updated so they are logical and understandable. The css code now has comments explaining what each property is for. All of this is so anyone in the future updating this webpage wont find it difficult to know what does what.
+The CSS has been refactored and simplified. Class and ID's have been updated so they are logical and understandable. The CSS code now has comments explaining what each property is for. All of this is done so that anyone updating this page in the future will know what is doing what. 
 
-This has been an interesting experience, its been good for me to understand how messy writing html code can be and the best practises to refactor and simplify it. On top of this, regularly updating Github with commits has been a great way of keeping ontop of the work and seeing it progress as well as giving me more experience using Github. 
+This has been an interesting experience. It's been good for me to understand how messy writing HTML code can be and the best practises to refactor and simplify it. On top of this, regularly updating Github with commits has been a great way of keeping on top of the work and seeing it progress, as well as giving me more experience using Github. 
 
 The website has been uploaded to Github pages. Please find the link in the Instillation section of the README.md
 
